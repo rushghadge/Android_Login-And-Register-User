@@ -1,4 +1,4 @@
-# Android - Login And Register User
+# Android - Login And Register User //rushieee
 This is a simple Android project for a basic registration system developed in Android with VolleyLibrary and PHP & MySQL.
 This project is created with WAMP 2.4 and Android Studio 1.2.2.
 
